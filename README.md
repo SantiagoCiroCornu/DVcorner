@@ -25,6 +25,7 @@ El proyecto utiliza **Firebase** para la autenticación de usuarios y almacenami
 
 ### Backend
 - APIs públicas de tasas de cambio [(ej: exchangerate.host)](https://api.frankfurter.app)
+- API grok ia.
 
 ---
 
